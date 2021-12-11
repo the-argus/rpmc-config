@@ -6,7 +6,7 @@
     "loadDefault": false,
     "enabled": false,
     "spawning": {
-        "enabled": true,
+        "enabled": false,
         "spawners": [
             "endsky"
         ],
