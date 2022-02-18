@@ -1,2 +1,3 @@
 #!/bin/bash
-rsync -av --exclude=".*" /home/argus/Desktop/Minecraft/Modpacks/RPMC/config-changes/* "/home/argus/.local/share/multimc/instances/compat testing/.minecraft/config"
+INSTANCE_PATH="$HOME/.local/share/multimc/instances/Ian's RPMC/.minecraft/config"
+rsync -av --exclude=".*" ./* $INSTANCE_PATH
