@@ -1,5 +1,5 @@
 
-** ROLEPLAY MINECRAFT
+* ROLEPLAY MINECRAFT
 
 - run the following when making a new server:
 ``/name option default off``
@@ -13,7 +13,7 @@ more info at https://github.com/skmedix/HideNames/wiki/Commands
 - ``/fakename set ur_name`` for setting a fake name.
 - ``/fakename clear`` to clear it.
 
-** TODO
+* TODO
 
 - make futuremc beeswax a drop-in replacement for the crafting recipes of other
 beeswax types
