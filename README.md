@@ -23,8 +23,6 @@ for this pack really long
 - make futuremc beeswax a drop-in replacement for the crafting recipes of other
 beeswax types
 
-- have futuremc bees spawn in biomes o' plenty biomes
-
 - make encyclopedia mysticum and the animal care guide available through crafting recipes
 
 - provide a resource for gui.item.ability.secondary for the zeal lighter
